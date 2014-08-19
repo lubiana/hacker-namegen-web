@@ -95,7 +95,7 @@ THE SOFTWARE.
                 </a>
             </main>
             <footer>
-                <p>Presented by: <a href="/" alt="wzf.wtf">wzf.wtf</a></p>
+                <p>Presented by: <a href="http://ctrl.alt.wtf/" alt="ctrl.alt.wtf">ctrl.alt.wtf</a></p>
             </footer>
         </div><!-- wrapper -->
     </body>
