@@ -132,8 +132,7 @@ THE SOFTWARE.
             'd4rk',
             'r3d',
             'blu3',
-            'c001',
-            'c01d',
+            'c0ld',
             'li9ht'
         );
 
