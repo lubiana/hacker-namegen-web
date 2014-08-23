@@ -117,11 +117,13 @@ THE SOFTWARE.
             's1l3nt',
             'v01d',
             'pr0xy',
+            'acid',
             'pr0',
             'm3t4',
     	    'ultr4',
             'XpL0i7',
             'sh4d0w',
+            'c3r3al',
             'cYb3r',
             'r0gue',
             'liQuiD',
@@ -149,14 +151,17 @@ THE SOFTWARE.
             'c00l',
             'cool',
             'phr33keR',
+            'Phr3ak',
             'fuZZ3r',
             'cr4ck0r',
             'bre4ch',
-            'c0d3r',	
+            'c0d3r',
+            'buRn',
             'w1re',
             'd3str0yer',
             'l3g3nd',
             '0v3rdr1v3',
+            'k!ll3r',
             'ph4nt0m',
             'br34k0r',
             'sk3let0n',
@@ -169,7 +174,7 @@ THE SOFTWARE.
         );
 
         echo get_rand($prefix) . '-' . get_rand($suffix);
-    }  
+    }    
 
     function get_rand($input_array) {
         return $input_array[rand(0, count($input_array) -1)];
