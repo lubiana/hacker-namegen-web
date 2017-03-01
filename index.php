@@ -166,6 +166,7 @@ THE SOFTWARE.
                 'c0ld',
                 'h4sHt4g',
                 'li9ht',
+                'Mafia',
             ],
             'suffix' => [
                 'h4xx0r',
@@ -199,6 +200,8 @@ THE SOFTWARE.
                 'l0wda$H',
                 'bu11',
                 'phr34k',
+                'Boy',
+                'Zeist',
             ],
         ];
     }
